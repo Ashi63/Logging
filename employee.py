@@ -1,3 +1,4 @@
+# Logging 
 import logging
 logging.basicConfig(filename='employee.log',level='INFO',format='%(levelname)s:%(message)s')
 
